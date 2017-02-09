@@ -15,7 +15,7 @@ FROM gcr.io/stacksmith-images/minideb:jessie-r9
 
 MAINTAINER Bitnami <containers@bitnami.com>
 
-ENV STACKSMITH_STACK_ID="gty53bx" \
+ENV STACKSMITH_STACK_ID="267mdam" \
     STACKSMITH_STACK_NAME="PHP for Flouzy/project" \
     STACKSMITH_STACK_PRIVATE="1"
 
